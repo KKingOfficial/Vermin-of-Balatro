@@ -4,7 +4,7 @@ A semi-full recolor/reskin for BALATRO by DragonRoilz https://x.com/DragonRoIlZ/
 "Test your luck, vermin..."
 
 MOD DEPENDENCIES
-[Trance](https://github.com/MathIsFun0/Trance) 
+[Trance](https://github.com/MathIsFun0/Trance/archive/refs/heads/main.zip) 
 
 [Steamodded](https://github.com/Steamopollys/Steamodded/wiki)
 
@@ -14,6 +14,8 @@ And any related dependencies for those mods!
 INSTALLATION
 
 You will need to install these mods first!!! 
+
+With Trance, rename the folder in the zip linked above from Trance-main to Trance, then put it into your mods folder!
 
 Once you have those installed, navigate to your mods folers, and add both the Trance and VerminOfPetrichor to it.
 
