@@ -328,7 +328,7 @@ return {
             bl_window={
                 name="The Window",
                 text={
-                    "All Diamond cards",
+                    "All Soul cards",
                     "are debuffed",
                 },
             },
@@ -618,7 +618,7 @@ return {
                 },
             },
             j_caino={
-                name="Canio",
+                name="Mithrix",
                 text={
                     "This Joker gains {X:mult,C:white} X#1# {} Mult",
                     "when a {C:attention}face{} card",
@@ -708,7 +708,7 @@ return {
                 },
             },
             j_chicot={
-                name="Chicot",
+                name="Providence",
                 text={
                     "Disables effect of",
                     "every {C:attention}Boss Blind",
@@ -1330,7 +1330,7 @@ return {
                 },
             },
             j_perkeo={
-                name="Perkeo",
+                name="Voidling",
                 text={
                     "Creates a {C:dark_edition}Negative{} copy of",
                     "{C:attention}1{} random {C:attention}consumable{}",
@@ -1433,7 +1433,7 @@ return {
                 name="Rough Gem",
                 text={
                     "Played cards with",
-                    "{C:diamonds}Diamond{} suit earn",
+                    "{C:diamonds}Soul{} suit earn",
                     "{C:money}$#1#{} when scored",
                 },
                 unlock={
@@ -1741,7 +1741,7 @@ return {
                 },
             },
             j_triboulet={
-                name="Triboulet",
+                name="False Son",
                 text={
                     "Played {C:attention}Kings{} and",
                     "{C:attention}Queens{} each give",
@@ -1848,7 +1848,7 @@ return {
                 },
             },
             j_yorick={
-                name="Yorick",
+                name="Aurelionite",
                 text={
                     "This Joker gains",
                     "{X:mult,C:white} X#1# {} Mult every {C:attention}#2#{C:inactive} [#3#]{}",
