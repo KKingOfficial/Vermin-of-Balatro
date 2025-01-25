@@ -14,6 +14,7 @@ sendDebugMessage("Launching Vermin of Petrichor!", "VerminofPetrichor")
 SMODS.Atlas{key = "Joker", path = "Jokers.png", px = 71, py = 95, prefix_config = { key = false } }
 SMODS.Atlas{key = "centers", path = "Enhancers.png", px = 71, py = 95, prefix_config = { key = false } }
 SMODS.Atlas{key = "cards_1", path = "8BitDeck.png", px = 71, py = 95, prefix_config = { key = false } }
+SMODS.Atlas{key = "cards_2", path = "8BitDeck_opt2.png", px = 71, py = 95, prefix_config = { key = false } }
 SMODS.Atlas{key = "ui_1", path = "ui_assets.png", px = 18, py = 18, prefix_config = { key = false } }
 SMODS.Atlas{key = "balatro", path = "balatro.png", px = 333, py = 216, prefix_config = { key = false } }
 SMODS.Atlas{key = "shop_sign", path = "ShopSignAnimation.png", px = 113, py = 57, prefix_config = { key = false }, atlas_table = 'ANIMATION_ATLAS', frames = 4}
